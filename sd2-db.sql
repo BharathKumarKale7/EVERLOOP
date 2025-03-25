@@ -26,7 +26,7 @@ SET time_zone = "+00:00";
 --
 -- Table structure for table `test_table`
 --
-
+--table
 CREATE TABLE `test_table` (
   `id` int NOT NULL,
   `name` varchar(512) NOT NULL
